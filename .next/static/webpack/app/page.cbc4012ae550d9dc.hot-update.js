@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/page",{
+
+/***/ "(app-pages-browser)/./src/app/Accordion/Accordion.module.css":
+/*!************************************************!*\
+  !*** ./src/app/Accordion/Accordion.module.css ***!
+  \************************************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("// extracted by mini-css-extract-plugin\nmodule.exports = {\"wrapper\":\"Accordion_wrapper___v2ct\",\"searchlabel\":\"Accordion_searchlabel__jmcRE\",\"label\":\"Accordion_label__UjiNe\",\"label_items\":\"Accordion_label_items__TOpMz\",\"input_items\":\"Accordion_input_items__nY9HW\",\"btn1\":\"Accordion_btn1__W907W\",\"btn2\":\"Accordion_btn2__cjW01\",\"btn_container\":\"Accordion_btn_container__kF7dc\",\"accordionBtn\":\"Accordion_accordionBtn__9Qn__\",\"span\":\"Accordion_span__mc5Xs\",\"btn\":\"Accordion_btn__JKh_i\",\"span1\":\"Accordion_span1__cA7MJ\",\"span2\":\"Accordion_span2__bwy67\",\"custom\":\"Accordion_custom__x5gU6\"};\n    if(true) {\n      // 1712653044150\n      var cssReload = __webpack_require__(/*! ./node_modules/next/dist/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js */ \"(app-pages-browser)/./node_modules/next/dist/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"/_next/\",\"esModule\":false,\"locals\":true});\n      module.hot.dispose(cssReload);\n      \n    }\n  \nmodule.exports.__checksum = \"71bf0e5e8b72\"\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL3NyYy9hcHAvQWNjb3JkaW9uL0FjY29yZGlvbi5tb2R1bGUuY3NzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0Esa0JBQWtCO0FBQ2xCLE9BQU8sSUFBVTtBQUNqQjtBQUNBLHNCQUFzQixtQkFBTyxDQUFDLHdNQUFxRyxjQUFjLHNEQUFzRDtBQUN2TSxNQUFNLFVBQVU7QUFDaEI7QUFDQTtBQUNBO0FBQ0EseUJBQXlCIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8uL3NyYy9hcHAvQWNjb3JkaW9uL0FjY29yZGlvbi5tb2R1bGUuY3NzP2EzNGYiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gZXh0cmFjdGVkIGJ5IG1pbmktY3NzLWV4dHJhY3QtcGx1Z2luXG5tb2R1bGUuZXhwb3J0cyA9IHtcIndyYXBwZXJcIjpcIkFjY29yZGlvbl93cmFwcGVyX19fdjJjdFwiLFwic2VhcmNobGFiZWxcIjpcIkFjY29yZGlvbl9zZWFyY2hsYWJlbF9fam1jUkVcIixcImxhYmVsXCI6XCJBY2NvcmRpb25fbGFiZWxfX1VqaU5lXCIsXCJsYWJlbF9pdGVtc1wiOlwiQWNjb3JkaW9uX2xhYmVsX2l0ZW1zX19UT3BNelwiLFwiaW5wdXRfaXRlbXNcIjpcIkFjY29yZGlvbl9pbnB1dF9pdGVtc19fblk5SFdcIixcImJ0bjFcIjpcIkFjY29yZGlvbl9idG4xX19XOTA3V1wiLFwiYnRuMlwiOlwiQWNjb3JkaW9uX2J0bjJfX2NqVzAxXCIsXCJidG5fY29udGFpbmVyXCI6XCJBY2NvcmRpb25fYnRuX2NvbnRhaW5lcl9fa0Y3ZGNcIixcImFjY29yZGlvbkJ0blwiOlwiQWNjb3JkaW9uX2FjY29yZGlvbkJ0bl9fOVFuX19cIixcInNwYW5cIjpcIkFjY29yZGlvbl9zcGFuX19tYzVYc1wiLFwiYnRuXCI6XCJBY2NvcmRpb25fYnRuX19KS2hfaVwiLFwic3BhbjFcIjpcIkFjY29yZGlvbl9zcGFuMV9fY0E3TUpcIixcInNwYW4yXCI6XCJBY2NvcmRpb25fc3BhbjJfX2J3eTY3XCIsXCJjdXN0b21cIjpcIkFjY29yZGlvbl9jdXN0b21fX3g1Z1U2XCJ9O1xuICAgIGlmKG1vZHVsZS5ob3QpIHtcbiAgICAgIC8vIDE3MTI2NTMwNDQxNTBcbiAgICAgIHZhciBjc3NSZWxvYWQgPSByZXF1aXJlKFwiRDovVGFzay9zZWN0aW9uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvY29tcGlsZWQvbWluaS1jc3MtZXh0cmFjdC1wbHVnaW4vaG1yL2hvdE1vZHVsZVJlcGxhY2VtZW50LmpzXCIpKG1vZHVsZS5pZCwge1wicHVibGljUGF0aFwiOlwiL19uZXh0L1wiLFwiZXNNb2R1bGVcIjpmYWxzZSxcImxvY2Fsc1wiOnRydWV9KTtcbiAgICAgIG1vZHVsZS5ob3QuZGlzcG9zZShjc3NSZWxvYWQpO1xuICAgICAgXG4gICAgfVxuICBcbm1vZHVsZS5leHBvcnRzLl9fY2hlY2tzdW0gPSBcIjcxYmYwZTVlOGI3MlwiXG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./src/app/Accordion/Accordion.module.css\n"));
+
+/***/ })
+
+});
